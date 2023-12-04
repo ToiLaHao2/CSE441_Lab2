@@ -22,7 +22,7 @@ import Button from 'react-native-paper';
 function App(): JSX.Element {
   return (
     <View>
-        <Button/>
+        
     </View>
   );
 }
